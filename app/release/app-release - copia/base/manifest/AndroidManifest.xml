@@ -1,0 +1,50 @@
+
+Š
+9
+android*http://schemas.android.com/apk/res/androidmanifest"packagecom.time.someplace"K
+*http://schemas.android.com/apk/res/androidversionCode1"(›„„2:0"C
+*http://schemas.android.com/apk/res/androidversionName1.0(œ„„"R
+*http://schemas.android.com/apk/res/androidcompileSdkVersion29"(òŠ„2:0"(platformBuildVersionCode29"2:0"P
+*http://schemas.android.com/apk/res/androidcompileSdkVersionCodename10(óŠ„"(platformBuildVersionName10"2:0
+*
+
+    *¶
+­uses-sdk"N
+*http://schemas.android.com/apk/res/androidminSdkVersion21"(Œ„„2:0"Q
+*http://schemas.android.com/apk/res/androidtargetSdkVersion29"(ğ„„2:0*
+
+    	(*²
+©application"N
+*http://schemas.android.com/apk/res/androidallowBackuptrue"(€…„2:@"n
+*http://schemas.android.com/apk/res/androidappComponentFactory&androidx.core.app.CoreComponentFactory(úŠ„"n
+*http://schemas.android.com/apk/res/androidicon@mipmap/ic_launcher"(‚€„2
+€€¬ømipmap/ic_launcher"i
+*http://schemas.android.com/apk/res/androidlabel@string/app_name"(€„2
+›€°østring/app_name"
+*http://schemas.android.com/apk/res/android	roundIcon@mipmap/ic_launcher_round"(¬Š„2"
+ €¬ømipmap/ic_launcher_round"N
+*http://schemas.android.com/apk/res/androidsupportsRtltrue"(¯‡„2:@"g
+*http://schemas.android.com/apk/res/androidtheme@style/AppTheme"(€€„2
+…€´østyle/AppTheme*	
+        )*Ö
+Íactivity"X
+*http://schemas.android.com/apk/res/androidnamecom.time.someplace.MainActivity(ƒ€„*
+            B*¼
+³intent-filter*
+                *e
+]action"S
+*http://schemas.android.com/apk/res/androidnameandroid.intent.action.MAIN(ƒ€„*
+
+                D*m
+ecategory"Y
+*http://schemas.android.com/apk/res/androidname android.intent.category.LAUNCHER(ƒ€„*
+            L*	
+        *	
+        *¶
+­activity"[
+*http://schemas.android.com/apk/res/androidname"com.time.modulo.MainActivityModulo(ƒ€„"D
+*http://schemas.android.com/apk/res/android	splitNamemodulo(ÉŠ„*
+    )*
+
+
+

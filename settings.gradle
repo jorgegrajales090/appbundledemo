@@ -1,0 +1,2 @@
+include ':app', ':modulo', ':dynamicfeature'
+rootProject.name='Demo App Bundle'
